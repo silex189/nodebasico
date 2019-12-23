@@ -25,4 +25,5 @@ function closeApp(){
         .then(()=>process.exit(0));
 }
 
+
 initDB();
